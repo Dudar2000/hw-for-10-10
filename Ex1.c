@@ -15,7 +15,8 @@ void main () {
 
     Max ();
 
-    printf("Number of repeatings: %i\n", Count());
+    printf("%i", max);
+    printf(" %i\n", Count());
 }
 
 void Max () {

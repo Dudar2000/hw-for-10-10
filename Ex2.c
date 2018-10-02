@@ -15,7 +15,8 @@ void main () {
 
     Min ();
 
-    printf("Number of repeatings: %i\n", Count());
+    printf("%i", min);
+    printf(" %i\n", Count());
 }
 
 void Min () {
