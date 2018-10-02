@@ -10,9 +10,6 @@ void main () {
     for (int i = 1; i <= n; i++)
         scanf("%f", &tablou[i]);
 
-    for (int i = 1; i <= n; i++)
-        printf("%.2f\n", tablou[i]);
-
     Min ();
 
     printf("%i", min);
